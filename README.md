@@ -8,6 +8,7 @@ Every file here is published by Jazital. If you were sent a Jazital installer fr
 
 | Product | What it is | Platform | Download |
 |---|---|---|---|
+| **Media Compressor** | Shrink and convert video, audio and images on your own computer — private, offline, any file size. | Windows 10 / 11, 64-bit | [Media Compressor releases](https://github.com/Jazital/downloads/releases?q=media-compressor&expanded=true) |
 | **Rasin POS** | Point of sale for shops and restaurants that keeps selling when the internet goes down — products, staff, receipts and reports across every outlet. | Windows 10 / 11, 64-bit | [Rasin POS releases](https://github.com/Jazital/downloads/releases?q=rasin-pos&expanded=true) |
 | **Tempo Push** | Play any loop at any speed without changing its key, and split a song into music and voices — for choirs, worship teams and bands. | Windows 10 / 11, 64-bit | [Tempo Push releases](https://github.com/Jazital/downloads/releases?q=tempo-push&expanded=true) |
 
@@ -44,7 +45,7 @@ This repository holds **released builds only**. Source code lives in each produc
 
 Because several products share this one repository, releases must be named so they cannot be confused with each other:
 
-- **Tag:** `<product>-v<version>` — for example `rasin-pos-v1.7.4`, `tempo-push-v3.0.2`. The product slug is the same one used in the Jazital store and licence server.
+- **Tag:** `<product>-v<version>` — for example `media-compressor-v1.3.0`, `rasin-pos-v1.7.4`, `tempo-push-v3.0.2`. The product slug is the same one used in the Jazital store and licence server.
 - **Title:** `<Product Name> v<version>` — for example `Rasin POS v1.7.4`.
 - **Assets:** the installer (and `.msi`, `.zip`, `latest.yml` or blockmap where the product uses them) attached to that release only.
 - **Notes:** what changed, written for customers.
