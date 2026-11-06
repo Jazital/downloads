@@ -52,7 +52,3 @@ Because several products share this one repository, releases must be named so th
 - **Notes:** what changed, written for customers.
 
 **Do not rely on "Latest release".** GitHub marks one release as *Latest* for the whole repository, so `/releases/latest` points at whichever product was published most recently — not the newest version of any particular product. Link to a specific release, or to the product's filtered list as the table above does.
-
-## Renamed
-
-This repository was previously `Jazital/tempo-push-downloads`. GitHub redirects the old address here, so older links continue to work.
